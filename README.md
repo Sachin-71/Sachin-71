@@ -58,6 +58,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sachin-71/Sachin-71/output/snake.svg" alt="Snake animation" />
 
 ###
